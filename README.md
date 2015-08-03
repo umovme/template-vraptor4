@@ -95,4 +95,3 @@ Verifique o projeto requisitando a url de index com a versão da aplicação atr
 http://localhost:8080/vraptor4template
 
 ```
-# template-vraptor4
