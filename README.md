@@ -14,7 +14,7 @@ Instalação
 Baixe o projeto utilizando a linha de comando.
 
 ```
-git clone git@bitbucket.org:umovme/vraptor4template.git vraptor4template
+git clone https://github.com/umovme/template-vraptor4.git vraptor4template
 
 ```
 Importe o projeto em seu eclipse, e instale a versão mais recente do plugin JBoss AS Tools.
