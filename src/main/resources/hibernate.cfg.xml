@@ -7,7 +7,7 @@
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
         
         <!-- data-source for use in WildFly -->
-        <property name="hibernate.connection.datasource">java:jboss/datasources/templatevraptor4DS</property>
+        <property name="hibernate.connection.datasource">java:jboss/datasources/vraptor4templateDS</property>
         
         <property name="hibernate.cache.provider_class">org.hibernate.cache.HashtableCacheProvider</property>
         <property name="hibernate.show_sql">true</property>
